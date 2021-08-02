@@ -26,7 +26,7 @@ Then, split data into training and test sets:
 ```
 python train_test_split.py
 ```
-When the dataset is ready, you can start training the model (you might need to create empty 'model' folder before running script below):
+When the dataset is ready, you can start training the model (you might need to create an empty 'model' folder before running script below):
 ```
 python train.py
 ```
